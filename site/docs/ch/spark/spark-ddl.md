@@ -1,4 +1,4 @@
-# DDL
+# Spark DDL
 
 ## CREATE TABLE
 
