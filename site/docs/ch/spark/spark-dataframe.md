@@ -1,4 +1,4 @@
-# Spark DataFrame Api
+# Spark DataFrame API
 
 ## load table
 支持 DataFrame 读取，现在可以使用 `spark.table` 通过表名 load 表:
