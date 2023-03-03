@@ -232,7 +232,7 @@ optimize_group:
       taskmanager.memory: 1024
       jobmanager.memory: 1024
   - name: externalOp
-    container: external
+    container: externalContainer
     properties:
 ```
 
