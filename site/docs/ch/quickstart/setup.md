@@ -74,7 +74,7 @@ cd arctic-${ARCTIC-VERSION}
 ```
 
 在执行完成以上命令后，用浏览器访问 [http://127.0.0.1:1630/](http://127.0.0.1:1630/) 并通过 admin/admin 登录系统。
-如果顺利登陆系统则表示 AMS 部署成功。
+如果顺利登录系统则表示 AMS 部署成功。
 
 ### Setup Flink environment
 
